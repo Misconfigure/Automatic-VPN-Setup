@@ -1,2 +1,3 @@
-[read.txt](https://github.com/Misconfigure/Automatic-VPN-Setup/files/7042591/read.txt)
+Usage: python3 sgautosetup.py
+note you may have to once OpenVPN is installed change the ip in the configuration (;
 # Automatic-VPN-Setup
